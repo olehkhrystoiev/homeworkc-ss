@@ -120,15 +120,7 @@ table {
 	position: relative;
 	left: 330px;
 }   
-#emptyfield {
-	position: absolute;
-	border: 1px solid grey;
-	border-radius: 5px;
-	background: white;
-	width: 260px;
-	height: 20px;
-	top: 10px;
-}   
+
 .anybotton {
 	position: relative;
 	border: 1px solid grey;
@@ -154,6 +146,12 @@ table {
   	width: 100px;
     height: 25px;
     border-radius: 5px;
+}
+.emptyfield {
+	position: relative;
+	background: white;
+	border: 1px solid grey;
+	border-radius: 5px;
 }
 
 
