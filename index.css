@@ -121,37 +121,38 @@ table {
 	left: 330px;
 }   
 
-.anybotton {
+.anybutton {
 	position: relative;
-	border: 1px solid grey;
-	border-radius: 5px;
+	border: 1px solid #D9C9C9;
 	background: #F5F2F2;
 	padding-top: 5px;
 	padding-bottom: 5px;
-	padding-left: 20px;
-	padding-right: 20px;
+	margin-top: 5px;
+	width: 50px;
 }  
 #buttonequal {
 	position: relative;
 	text-align: center;
+	border: 1px solid #D9C9C9;
 	background: #F5F2F2;
   	width: 50px;
-  	height: 55px;
-  	border-radius: 5px;
+  	height: 61px;
+  	margin-top: 5px;
+
 }     
 #buttonzero {
   	position: relative;
   	text-align: center;
+  	border: 1px solid #D9C9C9;
   	background: #F5F2F2;
-  	width: 100px;
-    height: 25px;
-    border-radius: 5px;
+  	margin-top: 5px;
+  	width: 103px;
+    height: 27px;
 }
 .emptyfield {
 	position: relative;
 	background: white;
-	border: 1px solid grey;
-	border-radius: 5px;
+	border: 1px solid #D9C9C9;
 }
 
 
